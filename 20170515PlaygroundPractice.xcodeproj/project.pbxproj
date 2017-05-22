@@ -47,6 +47,7 @@
 		80062C061EC96F5100A60F06 /* 20170515PlaygroundPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 20170515PlaygroundPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		80062C0A1EC96F5100A60F06 /* _0170515PlaygroundPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _0170515PlaygroundPracticeUITests.swift; sourceTree = "<group>"; };
 		80062C0C1EC96F5100A60F06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80062C181EC96F7200A60F06 /* ifelsestory.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ifelsestory.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		80062BDE1EC96F5100A60F06 = {
 			isa = PBXGroup;
 			children = (
+				80062C181EC96F7200A60F06 /* ifelsestory.playground */,
 				80062BE91EC96F5100A60F06 /* 20170515PlaygroundPractice */,
 				80062BFE1EC96F5100A60F06 /* 20170515PlaygroundPracticeTests */,
 				80062C091EC96F5100A60F06 /* 20170515PlaygroundPracticeUITests */,

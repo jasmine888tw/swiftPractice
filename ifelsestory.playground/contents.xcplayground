@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='格子計算'/>
+        <page name='func不包含5的倍數'/>
+        <page name='func只包含5的倍數'/>
+        <page name='if else變數'/>
+        <page name='func奇數行的數字總合'/>
+        <page name='func所有格子的除了列數&gt;=行數的總和'/>
+        <page name='func華式-&gt;攝式'/>
+    </pages>
+</playground>
